@@ -1,0 +1,10 @@
+#note-input {
+    width: 100%;
+    margin-top: 10px;
+}
+  
+.save-indicator {
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 11px;
+}
